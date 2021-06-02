@@ -6,4 +6,5 @@ Hi there, my name is Daniel Laskewitz!
 ⭐ Co-host [Flow Pro Show](https://www.youtube.com/flowproshow) together with [Sandy Ussia](https://twitter.com/SandyU)  
 📰 Co-editor [Power Platform Weekly](https://www.ppweekly.com/)  
 
+## Stats
 ![Laskewitz' GitHub stats](https://github-readme-stats.vercel.app/api?username=laskewitz)
