@@ -1,5 +1,5 @@
 # About
-Hi there, my name is Daniel Laskewitz!
+Hi there, my name is Daniel Laskewitz! 👋
 
 💼 Power Platform Subject Matter Expert (SME) at [Sogeti](https://www.sogeti.nl/)  
 📺 YouTube creator | [Daniel Laskewitz on YouTube](https://youtube.com/daniellaskewitz)  
